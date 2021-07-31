@@ -10,4 +10,4 @@ This folder contains the datasets used for the experiments. All the datasets hav
 This folder contains 2 figures that describes the AL-OD and ALOD-RE algorithms proposed in our paper.
 
 # Results:
-This folder contains the results that we have achieved after simulating the experiment. It contains .xlsx files for each Query by Committee (QBC) 
+This folder contains the results that we have achieved after simulating the experiment. The results have been stored in individual folders for the respective datasets. Each folder contains two .xlsx files for each Query by Committee (QBC) active learning method and Uncertainty Sampling (US) active learning method. 
