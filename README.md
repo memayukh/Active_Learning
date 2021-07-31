@@ -13,4 +13,4 @@ This folder contains 2 figures that describes the AL-OD and ALOD-RE algorithms p
 This folder contains the results that we have achieved after simulating the experiment. The results have been stored in individual folders for the respective datasets. Each folder contains two .xlsx files for each Query by Committee (QBC) active learning method and Uncertainty Sampling (US) active learning method. 
 
 # References:
-[1] Mayukh Bhattacharjee, Hema Sri Kambhampati, Paula Branco, and Luis Torgo (2021). _" Active Learning for Imbalanced Domains: the ALOD and ALOD-RE algorithm."_ International Conference on Data Science and Data Analtics (DSAA). IEEE, 2021.
+[1] Mayukh Bhattacharjee, Hema Sri Kambhampati, Paula Branco, and Luis Torgo (2021). _" Active Learning for Imbalanced Domains: the ALOD and ALOD-RE algorithm."_ International Conference on Data Science and Data Analtics (DSAA). IEEE, 2021. _(to appear)_
